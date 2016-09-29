@@ -29,15 +29,15 @@ II.2 - Install HomomorphicSpace extensions
 a) Copy the folder /depspace/me/* inside the src folder of the depspace project you have created in II.1
 b) Forces refresh (File -> Refresh)
 c) Create the configirations:
-	-----------------------------------------------------------------------------
-	|Name				|Class										| Arguments	|
-	|---------------------------------------------------------------------------|
-	|DepSpaceReplica0	|depspace.server.DepSpaceReplica			| 0 config	|
-	|DepSpaceReplica1	|depspace.server.DepSpaceReplica			| 1 config	|
-	|DepSpaceReplica2	|depspace.server.DepSpaceReplica			| 2 config	|
-	|DepSpaceReplica3	|depspace.server.DepSpaceReplica			| 3 config	|
-	|Dispatcher			|me.eugenio.homospace.Dispatcher.Dispatcher	| 			|
-	-----------------------------------------------------------------------------
+	-----------------------------------------------------------------------------------------
+	|Name			|Class						| Arguments	|
+	|---------------------------------------------------------------------------------------|
+	|DepSpaceReplica0	|depspace.server.DepSpaceReplica		| 0 config	|
+	|DepSpaceReplica1	|depspace.server.DepSpaceReplica		| 1 config	|
+	|DepSpaceReplica2	|depspace.server.DepSpaceReplica		| 2 config	|
+	|DepSpaceReplica3	|depspace.server.DepSpaceReplica		| 3 config	|
+	|Dispatcher		|me.eugenio.homospace.Dispatcher.Dispatcher	| 		|
+	-----------------------------------------------------------------------------------------
 d)	Launch the configurations in the order of the table above
 e) 	You can now Run the tests referred in the Thesis
 
