@@ -7,6 +7,7 @@ The following instructions are oriented for the use of the Eclipse IDE, but can 
 I - MorphicLib installation
 
 a) Crate a new empty eclipse Java Project naming it "crypt" and set version 8
+
 b) Copy the sources in the folder "crypt" to the sources folder of the project
 c) Forces refresh (File -> Refresh)
 d) You can Run the tests referred in the Thesis, or use the classes as a Library. In Eclipse just create your Project aside and include "cypt" project in your 
