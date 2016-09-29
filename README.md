@@ -44,18 +44,12 @@ c) Create the configirations:
 
 	-----------------------------------------------------------------------------------------
 	|Name                   |Class                                          | Arguments     |	
-	|---------------------------------------------------------------------------------------|
-	
-	|DepSpaceReplica0	|depspace.server.DepSpaceReplica		| 0 config	|
-	
-	|DepSpaceReplica1	|depspace.server.DepSpaceReplica		| 1 config	|
-	
-	|DepSpaceReplica2	|depspace.server.DepSpaceReplica		| 2 config	|
-	
-	|DepSpaceReplica3	|depspace.server.DepSpaceReplica		| 3 config	|
-	
-	|Dispatcher		|me.eugenio.homospace.Dispatcher.Dispatcher	| 		|
-	
+	|---------------------------------------------------------------------------------------|	
+	|DepSpaceReplica0       |depspace.server.DepSpaceReplica                | 0 config      |	
+	|DepSpaceReplica1       |depspace.server.DepSpaceReplica                | 1 config      |
+	|DepSpaceReplica2       |depspace.server.DepSpaceReplica                | 2 config      |	
+	|DepSpaceReplica3       |depspace.server.DepSpaceReplica                | 3 config      |
+	|Dispatcher             |me.eugenio.homospace.Dispatcher.Dispatcher     |               |	
 	-----------------------------------------------------------------------------------------
 	
 d)	Launch the configurations in the order of the table above
