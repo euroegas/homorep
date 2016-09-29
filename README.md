@@ -43,9 +43,7 @@ b) Forces refresh (File -> Refresh)
 c) Create the configirations:
 
 	-----------------------------------------------------------------------------------------
-	
-	|Name			|Class						| Arguments	|
-	
+	|Name                   |Class                                          | Arguments     |	
 	|---------------------------------------------------------------------------------------|
 	
 	|DepSpaceReplica0	|depspace.server.DepSpaceReplica		| 0 config	|
