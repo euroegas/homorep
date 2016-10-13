@@ -80,7 +80,9 @@ h) install an Apache webserver in the machine
 
 i) create the folder /var/www/html/folder and change it's ownner to www-data
 
-j) create a configuration for the class me.filesystem.HomoFuse, with arguments <anypath>/mnt (<anypath> the same used in g))
+j) copy the file executa.php of this repository to /var/www/html/
 
-k) you can now Run the tests referred in the Thesis
+k) create a configuration for the class me.filesystem.HomoFuse, with arguments <anypath>/mnt (<anypath> the same used in g))
+
+l) you can now Run the tests referred in the Thesis
 
