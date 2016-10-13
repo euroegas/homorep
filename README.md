@@ -77,8 +77,9 @@ f) go to Properties->Java Build Path-> Projects and include the jnr-fuse project
 g) create a folder called <anypath>/mnt
 
 h) install an Apache webserver in the machine
+i) create the folder /var/www/html/folder and change it's ownner to www-data
 
-i) create a configuration for the class me.filesystem.HomoFuse, with arguments <anypath>/mnt (<anypath> the same used in g))
+j) create a configuration for the class me.filesystem.HomoFuse, with arguments <anypath>/mnt (<anypath> the same used in g))
 
-j) you can now Run the tests referred in the Thesis
+k) you can now Run the tests referred in the Thesis
 
