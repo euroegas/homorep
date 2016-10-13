@@ -76,7 +76,7 @@ f) go to Properties->Java Build Path-> Projects and include the jnr-fuse project
 
 g) create a folder called <anypath>/mnt
 
-h) install an Apache webserver in the machine
+h) install an Apache webserver and PHP in the machine
 
 i) create the folder /var/www/html/folder and change it's ownner to www-data
 
